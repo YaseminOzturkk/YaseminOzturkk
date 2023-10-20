@@ -5,8 +5,8 @@
 * 📊 Passionate about all things Data Analytics, Data Science
 * 💪🏽 Skilled in the following technical skills:
 
-* Programming Language: Python (pandas, numpy, matplotlib, seaborn)
-* Other: Google Sheets, Microsoft Excel, Jira
+- Programming Language: Python (pandas, numpy, matplotlib, seaborn)
+- Other: Google Sheets, Microsoft Excel, Jira
 
 * 🖥️ Proficiencies:
 
