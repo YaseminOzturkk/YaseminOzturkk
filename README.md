@@ -1,6 +1,6 @@
-👋 Hi, I’m Yasemin.
-👩‍💻 I’m currently working on Kimola.
-👩 I'm a meticulous and passionate data professional with 2+ years of experience in the sector.
+# 👋 Hi, I’m Yasemin.
+# 👩‍💻 I’m currently working on Kimola.
+# 👩 I'm a meticulous and passionate data professional with 2+ years of experience in the sector.
 🎓 Bachelor of degree in Information Management
 📊 Passionate about all things Data Analytics, Data Science
 💪🏽 Skilled in the following technical skills:
