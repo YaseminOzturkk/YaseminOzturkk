@@ -9,7 +9,7 @@ Other: Google Sheets, Microsoft Excel, Jira
 🖥️ Proficiencies:
 Data Science, Data Analytics, Data Analysis, Data Management
 💬 Ask me about anything, I am happy to help
-📫 How to reach me: yasminoztrk7@gmail.com or  * [LinkedIn :](https://www.linkedin.com/in/yasminoztrk7/)
+📫 How to reach me: *yasminoztrk7@gmail.com or  *[LinkedIn](https://www.linkedin.com/in/yasminoztrk7/)
 
 <!---
 YaseminOzturkk/YaseminOzturkk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
