@@ -7,7 +7,7 @@
   * Programming Language: Python (pandas, numpy, matplotlib, seaborn)
   * Other: Google Sheets, Microsoft Excel, Jira
 - 🖥️ Proficiencies:
-  * Data Science, Data Analytics, Data Analysis, Data Management
+  * Data Science, Data Analytics, Data Analysis, Data Management, Data Visualization
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: yasminoztrk7@gmail.com or  [LinkedIn](https://www.linkedin.com/in/yasminoztrk7/)
 
