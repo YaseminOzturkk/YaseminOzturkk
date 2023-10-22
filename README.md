@@ -4,7 +4,7 @@
 - 🎓 Bachelor of degree in Information Management from Hacettepe University
 - 📊 Passionate about all things Data Analytics, Data Science
 - 💪🏽 Skilled in the following technical skills:
-  * Programming Language: Python (pandas, numpy, matplotlib, seaborn)
+  * Programming Language: Python (pandas, numpy, matplotlib, seaborn), SQL
   * Other: Google Sheets, Microsoft Excel, Jira
 - 🖥️ Proficiencies:
   * Data Science, Data Analytics, Data Analysis, Data Management, Data Visualization
